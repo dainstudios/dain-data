@@ -8,6 +8,7 @@ The repository currently contains the following datasets:
 
 Also known as the Census Income dataset. 
 Suitable for (fair) binary classification problems.
+
 Source (raw): https://archive.ics.uci.edu/ml/datasets/adult
 
 ### `student`
@@ -15,11 +16,13 @@ Source (raw): https://archive.ics.uci.edu/ml/datasets/adult
 
 Dataset about the performance of portugese students.
 Suitable for (fair) regression problems.
+
 Source (raw): https://archive.ics.uci.edu/ml/datasets/student+performance
 
-### `drug consumption
+### `drug consumption`
 
 Suitable for (fair) multiclass classification problems.
+
 Source (raw): https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 
 ## Contribute

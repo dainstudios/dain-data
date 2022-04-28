@@ -1,8 +1,8 @@
 # DAIN data
 Datasets for illustrative purposes (processed and unprocessed).
 
-# Overview
-The repository currently contains three datasets:
+## Overview
+The repository currently contains the following datasets:
 
 ### Adult
 
@@ -22,7 +22,7 @@ Source (raw): https://archive.ics.uci.edu/ml/datasets/student+performance
 Suitable for (fair) multiclass classification problems.
 Source (raw): https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 
-# Contribute
+## Contribute
 Contributions are very welcome. You can simply add a dataset (both raw and preprocessed) in a .csv or other suitable format for data analysis.
 Please maintain the folder structure:
 

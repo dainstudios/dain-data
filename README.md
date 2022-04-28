@@ -19,7 +19,7 @@ Suitable for (fair) regression problems.
 
 Source (raw): https://archive.ics.uci.edu/ml/datasets/student+performance
 
-### `drug consumption`
+### `drug_consumption`
 
 Suitable for (fair) multiclass classification problems.
 

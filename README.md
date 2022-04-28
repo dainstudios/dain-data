@@ -35,5 +35,5 @@ Please maintain the folder structure:
 
 * * *
 <p align="center">
-  <img src="https://github.com/dainstudios/dain-data/blob/main/resources/dain-logo.png" alt="DAIN logo" width="250"/>
+  <img src="https://github.com/dainstudios/dain-data/blob/main/dain-logo.png" alt="DAIN logo" width="250"/>
 </p>

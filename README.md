@@ -32,3 +32,8 @@ Please maintain the folder structure:
 * `datasets/`
   * `raw/`
   * `preprocessed/`
+
+* * *
+<p align="center">
+  <img src="https://github.com/dainstudios/dain-data/blob/main/dain-logo.png" alt="DAIN logo" width="250"/>
+</p>

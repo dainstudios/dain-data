@@ -11,6 +11,13 @@ Suitable for (fair) binary classification problems.
 
 Source (raw): https://archive.ics.uci.edu/ml/datasets/adult
 
+### `german_credit`
+
+A credit scoring data set that can be used to predict defaults on consumer loans in the German market.
+Suitable for (fair) binary classification problems.
+
+Source (raw): [https://archive.ics.uci.edu/ml/datasets/adult](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+
 ### `student`
 
 
